@@ -8,6 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="107,99,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Margin="284,99,0,0" TextWrapping="Wrap" Text="Memu1" VerticalAlignment="Top" Height="50"/>
 
     </Grid>
 </Page>
