@@ -9,7 +9,17 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button Content="Launch" HorizontalAlignment="Left" Margin="107,99,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
-        <CheckBox Content="Memu1 is Running" HorizontalAlignment="Left" Margin="298,109,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="272,99,0,0" TextWrapping="Wrap" Text="Memu 1 is not running
+" VerticalAlignment="Top" Width="207"/>
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="107,201,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="272,201,0,0" TextWrapping="Wrap" Text="Memu 2 is not running " VerticalAlignment="Top" Width="207"/>
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="107,314,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="272,314,0,0" TextWrapping="Wrap" Text="Memu 3 is not running " VerticalAlignment="Top" Width="207"/>
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="107,422,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="272,422,0,0" TextWrapping="Wrap" Text="Memu 4 is not running " VerticalAlignment="Top" Width="207"/>
+        <Button Content="Launch" HorizontalAlignment="Left" Margin="107,530,0,0" VerticalAlignment="Top" Height="50" Width="100"/>
+        <TextBlock HorizontalAlignment="Left" Height="50" Margin="272,530,0,0" TextWrapping="Wrap" Text="Memu 5 is not running " VerticalAlignment="Top" Width="207"/>
+        <Button Content="Update Status" HorizontalAlignment="Left" Margin="107,683,0,0" VerticalAlignment="Top" Height="152" Width="241"/>
 
     </Grid>
 </Page>
