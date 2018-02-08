@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- data for each bot here -->
+<bots>
+	<bot>
+		<key>1</key>
+		<profile>wedey</profile>
+		<memuInstance>MEmu</memuInstance>
+	</bot>
+	<bot>
+		<key>2</key>
+		<profile>elblanco</profile>
+		<memuInstance>MEmu_1</memuInstance>
+	</bot>	
+</bots>
