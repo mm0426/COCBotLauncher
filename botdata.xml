@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- data for each bot here -->
+
 <bots>
+	<mybotpath>C:\MyBot-MBR_v7.4.3\</mybotpath>
+	
 	<bot>
 		<key>1</key>
 		<profile>wedey</profile>
