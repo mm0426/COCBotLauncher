@@ -6,12 +6,32 @@
 	
 	<bot>
 		<key>1</key>
-		<profile>wedey</profile>
-		<memuInstance>MEmu</memuInstance>
+		<profile>whodat</profile>
+		<memuInstance>MEmu_1</memuInstance>
 	</bot>
 	<bot>
 		<key>2</key>
-		<profile>elblanco</profile>
-		<memuInstance>MEmu_1</memuInstance>
-	</bot>	
+		<profile>wedey</profile>
+		<memuInstance>MEmu_2</memuInstance>
+	</bot>
+	<bot>
+		<key>3</key>
+		<profile>Believedat</profile>
+		<memuInstance>MEmu_3</memuInstance>
+	</bot>
+	<bot>
+		<key>4</key>
+		<profile>Orz</profile>
+		<memuInstance>MEmu_4</memuInstance>
+	</bot>
+	<bot>
+		<key>5</key>
+		<profile>DemSaints</profile>
+		<memuInstance>MEmu_5</memuInstance>
+	</bot>
+	<bot>
+		<key>6</key>
+		<profile>ElBlanco</profile>
+		<memuInstance>MEmu_6</memuInstance>
+	</bot>
 </bots>

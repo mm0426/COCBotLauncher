@@ -33,6 +33,6 @@ if (!$memuInstance) {
 	$memuInstance = $botdata.bots.bot[$choice-1].memuInstance
 
 }
-$command = $mybotPath + "mybot.run.exe " + $botToLaunch + " MEmu " + $memuInstance
+cd $mybotPath
+$command = ".\mybot.run.exe " + $botToLaunch + " MEmu " + $memuInstance + " /Autostart"
 invoke-expression $command
-
