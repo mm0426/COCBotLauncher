@@ -2,7 +2,7 @@
 <!-- data for each bot here -->
 
 <bots>
-	<mybotpath>C:\MyBot-MBR_v7.4.3\</mybotpath>
+	<mybotpath>C:\MyBot-MBR_v7.5\</mybotpath>
 	
 	<bot>
 		<key>1</key>
@@ -33,5 +33,10 @@
 		<key>6</key>
 		<profile>ElBlanco</profile>
 		<memuInstance>MEmu_6</memuInstance>
+	</bot>
+	<bot>
+		<key>7</key>
+		<profile>yehat</profile>
+		<memuInstance>MEmu_7</memuInstance>
 	</bot>
 </bots>
