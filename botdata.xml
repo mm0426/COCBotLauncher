@@ -39,4 +39,9 @@
 		<profile>yehat</profile>
 		<memuInstance>MEmu_7</memuInstance>
 	</bot>
+	<bot>
+		<key>8</key>
+		<profile>Ilwrath</profile>
+		<memuInstance>MEmu_8</memuInstance>
+	</bot>	
 </bots>
