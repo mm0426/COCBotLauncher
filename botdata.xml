@@ -2,7 +2,7 @@
 <!-- data for each bot here -->
 
 <bots>
-	<mybotpath>C:\MyBot-MBR_v7.5.1\</mybotpath>
+	<mybotpath>C:\MyBot-MBR_v7.7.1\</mybotpath>
 	
 	<bot>
 		<key>1</key>
